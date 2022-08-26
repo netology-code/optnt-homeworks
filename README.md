@@ -9,7 +9,7 @@
 
 9.1. [Основы работы с ОС Linux. ](https://github.com/netology-code/optnt-homeworks/blob/main/9.1/9-01.md)
 
-9.2. [Мониторинг сетевых устройств. SNMP и NetFlow. ]()
+9.2. [Мониторинг сетевых устройств. SNMP и NetFlow. ](https://github.com/netology-code/optnt-homeworks/blob/main/9-02.md)
 
 9.3. [Сбор и анализ диагностических сообщений]()
 
