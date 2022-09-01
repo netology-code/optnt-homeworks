@@ -17,4 +17,4 @@
 
 9.5. [Средства и протоколы для аутентификации, авторизации и аккаунтинга сетевых устройств.](https://github.com/netology-code/optnt-homeworks/blob/main/9.5/9-05.md)
 
-9.6. [Сбор и анализ сетевого трафика.]()
+9.6. [Сбор и анализ сетевого трафика.](https://github.com/netology-code/optnt-homeworks/blob/main/9.6/9-06.md)
