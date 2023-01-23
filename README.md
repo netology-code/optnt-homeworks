@@ -9,7 +9,7 @@
 
 9.1. [Основы работы с ОС Linux. ](https://github.com/netology-code/optnt-homeworks/blob/main/9.1/9-01.md)
 
-9.2. [Мониторинг сетевых устройств. ](https://github.com/netology-code/optnt-homeworks/blob/main/9-02.md)
+9.2. [Мониторинг сетевых устройств. ](https://github.com/netology-code/optnt-homeworks/blob/main/9.2_ver2.md)
 
 9.3. [Сбор и учет данных.](https://github.com/netology-code/optnt-homeworks/blob/main/9-03.md)
 
